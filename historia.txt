@@ -1,0 +1,23 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
+
+cd "C:\Users\User\Desktop\p1"
+
+git config --global user.name "Fabio H. Mancipe"
+git config --global user.email "fabiohm003@yahoo.es"
+
+
+
+
+git config --global --show-origin
+
+
+
+git config --global --replace-all user.name “Aquí va tu nombre modificado”
+
+O si lo deseas eliminar y añadir uno nuevo
+git config --global --unset-all user.name :Elimina el nombre del usuario
+git config --global --add user.name “Aquí va tu nombre”
+

@@ -9,6 +9,9 @@ git config --global user.name "Fabio H. Mancipe"
 git config --global user.email "fabiohm003@yahoo.es"
 
 
+git commit -m "1er commit de archivo"
+
+
 
 
 git config --global --show-origin

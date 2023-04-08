@@ -22,3 +22,7 @@ git config --global --unset-all user.name :Elimina el nombre del usuario
 git config --global --add user.name “Aquí va tu nombre”
 
 git log nombre_archivo.txt
+
+
+
+•	git reset --mixed [SHA 1]: elimina los cambios hasta el working area

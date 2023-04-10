@@ -1,3 +1,6 @@
+nuevas lineas para test en rama master
+nuevas lineas para test en rama master
+nuevas lineas para test en rama master
 
 
 cd "C:\Users\User\Desktop\p1"
@@ -8,4 +11,3 @@ git log nombre_archivo.txt
 
 •	git reset --mixed [SHA 1]: elimina los cambios hasta el working area
 
-nuevas lineas para test en rama master

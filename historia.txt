@@ -1,6 +1,12 @@
 nuevas lineas para test en rama master
 nuevas lineas para test en rama master
 nuevas lineas para test en rama master
+esta es una adicion para branch cabecera
+esta es una adicion para branch cabecera
+esta es una adicion para branch cabecera
+
+
+nuevas lineas para test en rama
 
 
 cd "C:\Users\User\Desktop\p1"
@@ -11,3 +17,6 @@ git log nombre_archivo.txt
 
 •	git reset --mixed [SHA 1]: elimina los cambios hasta el working area
 
+
+esta es una adicion para branch cabecera
+esta es una adicion para branch cabecera

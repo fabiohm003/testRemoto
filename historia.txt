@@ -1,4 +1,6 @@
 esta es una adicion para branch cabecera
+esta es una adicion para branch cabecera
+esta es una adicion para branch cabecera
 
 
 nuevas lineas para test en rama
@@ -11,3 +13,7 @@ git log nombre_archivo.txt
 
 
 •	git reset --mixed [SHA 1]: elimina los cambios hasta el working area
+
+
+esta es una adicion para branch cabecera
+esta es una adicion para branch cabecera

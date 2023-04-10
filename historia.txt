@@ -20,3 +20,12 @@ git log nombre_archivo.txt
 
 esta es una adicion para branch cabecera
 esta es una adicion para branch cabecera
+
+
+
+ssh-keygen -t rsa -b 4096 -C "fabiohm003@yahoo.es"
+
+passphrase: 
+
+
+ssh-add "C:\Users\User\.ssh\id_rsa"

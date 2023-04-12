@@ -23,3 +23,11 @@ esta es una adicion para branch cabecera
 
 
 
+git tag -a soy_error -m "notas error tag" 32d11d3b68c45c7188e86427a81976f57600245d
+
+git push origin :refs/tags/soy_error
+
+
+git show-branch
+
+git show-branch --all

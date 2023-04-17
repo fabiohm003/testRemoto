@@ -16,27 +16,13 @@ git log nombre_archivo.txt
 
 
 •	git reset --mixed [SHA 1]: elimina los cambios hasta el working area
-
-
-esta es una adicion para branch cabecera
-esta es una adicion para branch cabecera
-
-
-
-git tag -a soy_error -m "notas error tag" 32d11d3b68c45c7188e86427a81976f57600245d
-
-git push origin :refs/tags/soy_error
-
-
-git show-branch
-
-git show-branch --all
+esta es una nueva linea
+esta es una nueva linea
+esta es una nueva linea
+esta es una nueva linea
+esta es una nueva linea
 
 
 
-commit de main 
-para pruebas de rebase
+este es una linea original
 
-experimiento 1
-
-experimiento 2

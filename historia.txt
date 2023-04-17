@@ -35,3 +35,6 @@ git show-branch --all
 
 
 commit de main 
+para pruebas de rebase
+
+experimiento 1

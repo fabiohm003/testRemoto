@@ -26,3 +26,8 @@ esta es una nueva linea
 
 este es una linea original
 
+esto es una modificacion para stash
+
+esto es otra 2da modificacion para stash
+
+
